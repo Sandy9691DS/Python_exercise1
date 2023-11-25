@@ -1,2 +1,2 @@
-# pyhton_exercise1
+# Python_exercise1
 Solve 100 Questions on Python..
